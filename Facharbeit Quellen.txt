@@ -1,0 +1,13 @@
+http://pille.iwr.uni-heidelberg.de/~ckurs/Data/Maschke.pdf
+
+http://www.informatik.uni-ulm.de/ki/Edu/Proseminare/KI/SS04/Ausarbeitungen/12-Tomm.pdf
+
+http://gamedevelopment.tutsplus.com/tutorials/the-three-simple-rules-of-flocking-behaviors-alignment-cohesion-and-separation--gamedev-3444
+
+http://www.red3d.com/cwr/boids/
+
+https://en.wikipedia.org/wiki/Flocking_%28behavior%29
+
+https://books.google.de/books?id=gDLpyWtFacYC&pg=PA118&lpg=PA118&dq=flocking+buckland&source=bl&ots=v0vlcR_j7j&sig=MdlG4HAmU0NeSLWAxR6d-lW7Qsc&hl=de&sa=X&ved=0ahUKEwiOscWUxuHKAhXGtQ8KHSoxDCcQ6AEIIjAA#v=onepage&q=flocking%20buckland&f=false
+
+https://www.youtube.com/watch?v=86iQiV3-3IA
