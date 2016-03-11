@@ -24,7 +24,7 @@ public class BoidFlocking : MonoBehaviour
 				{
 					GetComponent<Rigidbody>().velocity = GetComponent<Rigidbody>().velocity.normalized * controller.minVelocity;
 				}
-			}//Facharbeit hier weiterschreiben
+			}
 			float waitTime = Random.Range(0.3f, 0.5f);
 			yield return new WaitForSeconds(waitTime);
 		}
